@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InternshipGruznykhNicholas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InternshipGruznykhNicholas_jar</output-path>
+    <root id="archive" name="InternshipGruznykhNicholas.jar">
+      <element id="module-output" name="InternshipGruznykhNicholas" />
+    </root>
+  </artifact>
+</component>
